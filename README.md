@@ -40,3 +40,6 @@
         print('Point is in the 1st and the 4th QUARTERS!');
     }
     ```
+
+Link on project:
+https://yosip92.github.io/quarter-checker/
